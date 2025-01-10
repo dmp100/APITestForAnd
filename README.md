@@ -6,6 +6,16 @@
 
 https://www.data.go.kr/data/15101914/openapi.do#/API%20%EB%AA%A9%EB%A1%9D/galleryList1
 
+https://minchanyoun.tistory.com/44
+
+https://jutole.tistory.com/9
+
+https://velog.io/@ilil1/OkHttp-%EC%99%80-Retrofit
+
+https://velog.io/@jiwon3378/Android-Glide-%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-Load%ED%95%98%EA%B8%B0
+
+https://meongj-devlog.tistory.com/199
+
 ## 📝 구현 순서 및 방법
 
 ### 1. 레이아웃 구현 (XML)
