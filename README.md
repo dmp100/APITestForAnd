@@ -111,7 +111,7 @@ interface RetrofitService {
 }
 ```
 
-### 5. MainActivity에서 구현
+### 5. Activity or Fragment에서 구현
 ```kotlin
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
